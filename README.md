@@ -1,3 +1,8 @@
+This repository is obsolete.
+============================
+
+My experiments continue [here](http://github.com/jarpineh/crud-seed) using AngularJS.
+
 jquery.Dform example with JavascriptMVC/Steal.js
 ================================================
 
